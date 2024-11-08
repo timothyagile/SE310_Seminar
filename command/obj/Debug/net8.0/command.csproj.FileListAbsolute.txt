@@ -1,0 +1,14 @@
+/Users/nguyenphucthinh/Documents/study/se310-.net/design_pattern/command/bin/Debug/net8.0/command
+/Users/nguyenphucthinh/Documents/study/se310-.net/design_pattern/command/bin/Debug/net8.0/command.deps.json
+/Users/nguyenphucthinh/Documents/study/se310-.net/design_pattern/command/bin/Debug/net8.0/command.runtimeconfig.json
+/Users/nguyenphucthinh/Documents/study/se310-.net/design_pattern/command/bin/Debug/net8.0/command.dll
+/Users/nguyenphucthinh/Documents/study/se310-.net/design_pattern/command/bin/Debug/net8.0/command.pdb
+/Users/nguyenphucthinh/Documents/study/se310-.net/design_pattern/command/obj/Debug/net8.0/command.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nguyenphucthinh/Documents/study/se310-.net/design_pattern/command/obj/Debug/net8.0/command.AssemblyInfoInputs.cache
+/Users/nguyenphucthinh/Documents/study/se310-.net/design_pattern/command/obj/Debug/net8.0/command.AssemblyInfo.cs
+/Users/nguyenphucthinh/Documents/study/se310-.net/design_pattern/command/obj/Debug/net8.0/command.csproj.CoreCompileInputs.cache
+/Users/nguyenphucthinh/Documents/study/se310-.net/design_pattern/command/obj/Debug/net8.0/command.dll
+/Users/nguyenphucthinh/Documents/study/se310-.net/design_pattern/command/obj/Debug/net8.0/refint/command.dll
+/Users/nguyenphucthinh/Documents/study/se310-.net/design_pattern/command/obj/Debug/net8.0/command.pdb
+/Users/nguyenphucthinh/Documents/study/se310-.net/design_pattern/command/obj/Debug/net8.0/command.genruntimeconfig.cache
+/Users/nguyenphucthinh/Documents/study/se310-.net/design_pattern/command/obj/Debug/net8.0/ref/command.dll

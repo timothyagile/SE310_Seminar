@@ -1,0 +1,14 @@
+/Users/nguyenphucthinh/Documents/study/se310-.net/design_pattern/specification/bin/Debug/net8.0/specification
+/Users/nguyenphucthinh/Documents/study/se310-.net/design_pattern/specification/bin/Debug/net8.0/specification.deps.json
+/Users/nguyenphucthinh/Documents/study/se310-.net/design_pattern/specification/bin/Debug/net8.0/specification.runtimeconfig.json
+/Users/nguyenphucthinh/Documents/study/se310-.net/design_pattern/specification/bin/Debug/net8.0/specification.dll
+/Users/nguyenphucthinh/Documents/study/se310-.net/design_pattern/specification/bin/Debug/net8.0/specification.pdb
+/Users/nguyenphucthinh/Documents/study/se310-.net/design_pattern/specification/obj/Debug/net8.0/specification.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nguyenphucthinh/Documents/study/se310-.net/design_pattern/specification/obj/Debug/net8.0/specification.AssemblyInfoInputs.cache
+/Users/nguyenphucthinh/Documents/study/se310-.net/design_pattern/specification/obj/Debug/net8.0/specification.AssemblyInfo.cs
+/Users/nguyenphucthinh/Documents/study/se310-.net/design_pattern/specification/obj/Debug/net8.0/specification.csproj.CoreCompileInputs.cache
+/Users/nguyenphucthinh/Documents/study/se310-.net/design_pattern/specification/obj/Debug/net8.0/specification.dll
+/Users/nguyenphucthinh/Documents/study/se310-.net/design_pattern/specification/obj/Debug/net8.0/refint/specification.dll
+/Users/nguyenphucthinh/Documents/study/se310-.net/design_pattern/specification/obj/Debug/net8.0/specification.pdb
+/Users/nguyenphucthinh/Documents/study/se310-.net/design_pattern/specification/obj/Debug/net8.0/specification.genruntimeconfig.cache
+/Users/nguyenphucthinh/Documents/study/se310-.net/design_pattern/specification/obj/Debug/net8.0/ref/specification.dll
